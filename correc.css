@@ -1,0 +1,110 @@
+
+.header{
+        overflow: hidden;
+        background-color:rgb(113, 130, 167);
+        color: white;
+        height: 70px;
+    }
+    h1{
+        color: white;
+        font-size: 20px;
+        padding: 20px;
+        font-family: initial;
+    }
+    nav{
+    color:white;
+    float:right;
+    padding: 10px;
+    font-size: larger;
+    display: inline;
+    text-decoration: none;
+    }
+ 
+.gg{
+    display: flex;
+}
+.tt{
+    margin-left: 20px;
+    list-style-type: none;
+    text-decoration: none;
+    margin-top:-80px ;
+}
+.oo{
+    color:rgb(113, 130, 167);
+    margin-left: -20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 25px;
+}
+p{
+    color: rgb(71, 69, 69);
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2{
+    color:rgb(113, 130, 167);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ii{
+    color: rgb(71, 69, 69);
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+blockquote{
+    color: rgb(71, 69, 69);
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button{
+    background-color: beige;
+    color: rgb(6, 25, 121);
+    border: 2px solid rgb(6, 25, 121); /* Green */
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 3px;
+}
+button:hover{
+    background-color: rgb(113, 130, 167);
+}
+form
+{
+    color: rgb(71, 69, 69);
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: grid;
+   
+}
+
+.pp{
+    color: rgb(71, 69, 69);
+}
+.footer{
+    overflow: hidden;   
+    background-color: rgb(113, 130, 167);
+    padding: 20px;
+}
+img{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+   margin-right: auto;
+   width: 40%;
+   margin-top: 10px;
+   border: solid 2px rgb(113, 130, 167);
+   width: 300px;
+        height: 200px;
+        animation: mymove 5s infinite;   }
+        @keyframes mymove {
+            50% {border-width: 15px;}
+          } 
+.ll{
+        border:solid 2px rgb(113, 130, 167);
+    }
+    
+.ff{
+    border:solid 2px rgb(113, 130, 167);
+    }
+ .ff:hover{
+    background-color:beige;
+ }  
+    
